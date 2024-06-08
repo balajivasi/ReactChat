@@ -1,0 +1,33 @@
+{
+  "translation": {
+    "welcome": "Welcome",
+    "hello": "Hello",
+    "version": "Version",
+    "language": "Language"
+  },
+  "labels": {
+    "emailAddress": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "PH": {
+    "PH_Email": "Please enter Email Address",
+    "PH_Password": "Please Enter Password",
+    "PH_ConfirmPassword": "Enter Confirm Password"
+  },
+  "errorMessages": {
+    "title": "Info",
+    "fieldRequired": "This field is required.",
+    "emailRequired": "Email address is required.",
+    "ValidEmail": "Enter a valid email address.",
+    "PasswordRequired": "Password is required.",
+    "LoginEmailPass": "Please enter email and password",
+    "PasswordValid": "Please Enter Valid Password",
+    "confirmPasswordRequired": "Confirm Password is required.",
+    "confirmPassword6Long": "confirm Password must be at least 6 characters long",
+    "passwordMismatch": "password and confirm Password didn't match."
+  },
+  "InfoMessages": {
+    "PasswordInfo": "your password must : between 8 to 20 characters -contain at least 1 lowercase and 1 upper case letter - Contain at least one number (0-9)."
+  }
+}
